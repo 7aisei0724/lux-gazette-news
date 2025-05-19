@@ -1,0 +1,4 @@
+nano netlify.toml
+git add netlify.toml
+git commit -m "chore: add netlify.toml for correct build settings"
+git push origin main
