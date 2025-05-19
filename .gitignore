@@ -2,3 +2,4 @@
 gazette_*.pdf
 node_modules
 .astro/
+.env
